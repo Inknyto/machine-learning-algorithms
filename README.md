@@ -1,6 +1,6 @@
 # Machine Learning Algorithms Repository
 
-Ce dépôt contient une collection d'algorithmes de machine learning implémentés en Python, couvrant des approches supervisées et non supervisées. Chaque répertoire contient des fichiers Python (`.py`) et leurs versions correspondantes sous forme de notebooks Jupyter (`.ipynb`).
+Ce dépôt contient une collection d'algorithmes de machine learning implémentés à travers des notebooks Jupyter interactivement (`.ipynb`), couvrant des approches supervisées et non supervisées.
 
 ## Structure du Dépôt
 
@@ -46,8 +46,9 @@ Le dépôt est organisé par type d'algorithme :
 
 ## Comment utiliser ce dépôt
 
-Chaque répertoire contient son propre fichier `README.md` avec des détails spécifiques sur les implémentations et les jeux de données utilisés. Les scripts Python peuvent être exécutés directement, tandis que les notebooks offrent une exploration plus interactive.
+Chaque répertoire contient son propre fichier `README.md` avec des détails spécifiques sur les implémentations et les jeux de données utilisés. Les notebooks offrent une exploration interactive de chaque algorithme.
 
 ### Prérequis
 - Python 3.x
 - Bibliothèques : `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
+- Jupyter Notebook ou JupyterLab
